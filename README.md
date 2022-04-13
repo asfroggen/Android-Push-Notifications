@@ -1,7 +1,7 @@
-EggTimer - Final Code 
+EggTimer 
 ============================================================================
 
-Solution code for Advanced Android with Kotlin Codelab 
+Code for Advanced Android with Kotlin Codelab 
 
 Introduction
 ------------
@@ -22,12 +22,4 @@ Pre-requisites
 You should be familiar with:
 
 * Services, AlarmManager, Broadcast Receivers.
-
-
-Getting Started
----------------
-
-1. Download
-2. Swtich to start branch
-3. Run the app.
 
